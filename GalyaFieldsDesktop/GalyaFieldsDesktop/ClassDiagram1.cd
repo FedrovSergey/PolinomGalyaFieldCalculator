@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GalyaFieldsDesktop.Form1">
+    <Position X="4.25" Y="0.75" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <AssociationLine Name="GalyaField" Type="GalyaFieldsMath.GalyaField" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7" Y="4.471" />
+        <Point X="7.5" Y="4.471" />
+        <Point X="7.5" Y="4.375" />
+        <Point X="8.75" Y="4.375" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>BSAAiAQCASA0ABkQhASAUEByYM47AAGC0HQ/ECUAIAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="db" />
+      <Property Name="GalyaField" />
+      <Property Name="GalyaFieldPolinom" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="GalyaFieldsDesktop.Fields">
+    <Position X="10.75" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAgAAQ=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GalyaFieldsDesktop.ApplicationContext">
+    <Position X="7.75" Y="0.75" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Fields" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="GalyaFieldsMath.GalyaMain" Collapsed="true">
+    <Position X="11.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GalyaFieldsMath.GalyaField" Collapsed="true">
+    <Position X="8.75" Y="4" Width="1.5" />
+    <InheritanceLine Type="GalyaFieldsMath.GalyaMain" FixedToPoint="true">
+      <Path>
+        <Point X="12.25" Y="5.5" />
+        <Point X="12.25" Y="4.375" />
+        <Point X="10.25" Y="4.375" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GalyaFieldsMath.GalyaFieldPolinom" Collapsed="true">
+    <Position X="9" Y="6" Width="1.5" />
+    <InheritanceLine Type="GalyaFieldsMath.GalyaMain" FixedToPoint="true">
+      <Path>
+        <Point X="12.25" Y="6.062" />
+        <Point X="12.25" Y="6.438" />
+        <Point X="10.5" Y="6.438" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="GalyaFieldsDesktop.Program">
+    <Position X="2" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

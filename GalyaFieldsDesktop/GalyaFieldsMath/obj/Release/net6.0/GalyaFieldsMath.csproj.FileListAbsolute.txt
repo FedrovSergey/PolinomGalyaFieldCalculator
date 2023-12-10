@@ -1,0 +1,12 @@
+C:\Users\varva\source\repos\GalyaFieldsDesktop\GalyaFieldsMath\bin\Release\net6.0\GalyaFieldsMath.deps.json
+C:\Users\varva\source\repos\GalyaFieldsDesktop\GalyaFieldsMath\bin\Release\net6.0\GalyaFieldsMath.dll
+C:\Users\varva\source\repos\GalyaFieldsDesktop\GalyaFieldsMath\bin\Release\net6.0\GalyaFieldsMath.pdb
+C:\Users\varva\source\repos\GalyaFieldsDesktop\GalyaFieldsMath\obj\Release\net6.0\GalyaFieldsMath.csproj.AssemblyReference.cache
+C:\Users\varva\source\repos\GalyaFieldsDesktop\GalyaFieldsMath\obj\Release\net6.0\GalyaFieldsMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varva\source\repos\GalyaFieldsDesktop\GalyaFieldsMath\obj\Release\net6.0\GalyaFieldsMath.AssemblyInfoInputs.cache
+C:\Users\varva\source\repos\GalyaFieldsDesktop\GalyaFieldsMath\obj\Release\net6.0\GalyaFieldsMath.AssemblyInfo.cs
+C:\Users\varva\source\repos\GalyaFieldsDesktop\GalyaFieldsMath\obj\Release\net6.0\GalyaFieldsMath.csproj.CoreCompileInputs.cache
+C:\Users\varva\source\repos\GalyaFieldsDesktop\GalyaFieldsMath\obj\Release\net6.0\GalyaFieldsMath.dll
+C:\Users\varva\source\repos\GalyaFieldsDesktop\GalyaFieldsMath\obj\Release\net6.0\refint\GalyaFieldsMath.dll
+C:\Users\varva\source\repos\GalyaFieldsDesktop\GalyaFieldsMath\obj\Release\net6.0\GalyaFieldsMath.pdb
+C:\Users\varva\source\repos\GalyaFieldsDesktop\GalyaFieldsMath\obj\Release\net6.0\ref\GalyaFieldsMath.dll
